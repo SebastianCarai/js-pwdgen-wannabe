@@ -1,6 +1,6 @@
-userName=prompt('Inserisci il tuo nome');
-userLastName=prompt('Inserisci il tuo cognome');
-userFavColor=prompt('Inserisci il tuo colore preferito');
+const userName=prompt('Inserisci il tuo nome');
+const userLastName=prompt('Inserisci il tuo cognome');
+const userFavColor=prompt('Inserisci il tuo colore preferito');
 
 password = `La password suggerita è: ${userName}${userLastName}${userFavColor}21`;
 
